@@ -17,13 +17,8 @@
 <br/>
 
 ### Connect With Me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="mailto:khadijakhatuncse@gmail.com">
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+<a href="mailto:khadijakhatunnurse@gmail.com">
   <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -49,9 +44,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
-<img align="left" alt="adobe-xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
+
 
 <br />
 <br />
@@ -60,12 +53,6 @@
 <br />
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadijakhatungit&show_icons=true&locale=en&layout=compact" alt="khadijakhatungit" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=khadijakhatungit&show_icons=true&locale=en" alt="khadijakhatungit" /></p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khadijakhatun79 )
 
 [linkedin]: https://www.linkedin.com/in/khadija-khatun79/
 
