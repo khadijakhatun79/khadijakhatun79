@@ -1,61 +1,68 @@
-<h2>Assalamu Alaikum, I am Khadija khatun. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+[![banner](https://i.ibb.co.com/jvWhZ1Kh/Chat-GPT-Image-Jun-8-2026-12-53-18-PM.png)]
 
+<h1 align="center">Hi 👋, I'm Khadija Khatun</h1>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=khadijakhatun&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-👨‍🎓 I am a Frontend web developer-[khadija][website] 💕     
+---
 
- - 📙 I am currently Learning at Programming Hero
- - 🌱 I'm currently Learning NodeJS and MongoDB
- - 🎯  Goals: Typescript, Vue, NextJS
--  ⚡ Fun fact: I love to write code and teach other people
+- 🔭 I’m currently working on **Full Stack Web Projects**
+- 🌱 I’m currently learning **Next.js & Advanced Backend Development**
+- 💬 Ask me about **React, Node.js, MongoDB**
+- 📫 How to reach me **khadijakhatunnurse@gmail.com**
+- ⚡ Fun fact: I love building clean UI and solving real-world problems
 
+---
 
+## 🌐 Connect with me:
 
-<br/>
-<br/>
-<br/>
-
-### Connect With Me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-<a href="mailto:khadijakhatunnurse@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<p align="left">
+<a href="https://linkedin.com/in/your-link" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
-<br />
-<br/>
-</br>
+<a href="mailto:khadijakhatunnurse@gmail.com">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40"/>
+</a>
+</p>
 
-## Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+## 🛠️ Languages and Tools:
 
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+</p>
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khadijakhatun&show_icons=true&theme=tokyonight" />
+</p>
 
-<br />
-<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijakhatun&theme=tokyonight" />
+</p>
 
-<br />
-<br />
+---
 
+## 📈 Activity Graph
 
+[![Khadija's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khadijakhatun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[linkedin]: https://www.linkedin.com/in/khadija-khatun79/
+---
 
-
-
-
+⭐ Thanks for visiting my profile!
