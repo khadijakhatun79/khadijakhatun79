@@ -19,6 +19,13 @@
 
 ---
 
+## 🚀 Current Activities
+
+- 🌱 Learning **Next.js** and improving my frontend development skills.
+- 💻 Building responsive **full-stack web applications** using React, Node.js, Express.js, and MongoDB.
+- 🚀 Practicing **Data Structures & Algorithms** by solving problems on LeetCode.
+- 📚 Exploring modern web technologies and best practices to write clean, scalable code.
+
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
