@@ -19,17 +19,16 @@
 
 ---
 
-## 🌐 Connect with me
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/khadija-khatun79/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="mailto:khadijakhatunnurse@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40"/>
-</a>
-</p>
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/khadija-khatun79/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+    <a href="https://discord.gg/khadija-khatun79" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="https://discord.com/invite/khadija-khatun79" height="30" width="40" /></a>
+   
+  </p>
+</div>
 
 ---
 
